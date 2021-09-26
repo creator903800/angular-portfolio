@@ -9,7 +9,7 @@ export class SocialMediaComponent implements OnInit {
   socialMediaLinks = {
 
     github: "",
-    linkedin: "https://www.linkedin.com/in/sarthak-agrawal-a41aa3153/",
+    linkedin: "",
     gmail: "creator903800@gmail.com",
     instagram : "",
     facebook: ""
